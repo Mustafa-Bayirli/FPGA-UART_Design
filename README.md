@@ -1,4 +1,4 @@
-# UART Design - CEG 3155 Digital Systems II Project
+# FPGA UART Design - CEG 3155 Digital Systems II Project
 
 ---
 
