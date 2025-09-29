@@ -1,0 +1,56 @@
+# Quartus II generated files
+*.qpf
+*.qsf
+*.qws
+*.qdf
+*.sip
+
+# Database and output files
+db/
+incremental_db/
+output_files/
+*.done
+*.jdi
+
+# Programming files
+*.sof
+*.pof
+*.rbf
+
+# Simulation files
+*.vcd
+*.wlf
+*.sdo
+transcript
+modelsim.ini
+vsim.wlf
+
+# Report files
+*.rpt
+*.summary
+*.smsg
+
+# IP core files
+*.qip
+*.bsf
+*.cmp
+
+# SignalTap files
+*.stp
+
+# OS files
+.DS_Store
+Thumbs.db
+*.lnk
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+*~
+*.backup
+
+# Editor files
+*.swp
+*.swo
+*.un~
